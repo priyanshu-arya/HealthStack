@@ -62,4 +62,4 @@ Healthstack is an internet platform that supports numerous hospitals. It offers 
             python manage.py runserver
 
 
-### Thank you for Reading If you have any doubt or suggestion please mail me.
+Made with Lots of Love
